@@ -88,7 +88,7 @@ $ar = "2311952266";
 //Saya menjual Jam Tangan Q&Q White dengan potongan 99%! Hanya Rp1. Dapatkan sekarang juga di Shopee
 $as = "3439154513";
 //Saya menjual Jam Tangan Q&Q Black dengan potongan 99%! Hanya Rp1. Dapatkan sekarang 
-$at = "5639052388";
+$at = "3846302605";
 //Saya menjual Lova Bianca Dompet Panjang Wanita Varian Hitam dengan potongan 99%! Hanya Rp1. Dapatkan sekarang juga di Shopee
 
 $au = "3750307246";
