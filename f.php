@@ -466,7 +466,7 @@ echo "Jaringan Kurang Bagus!!\n";
 
 
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL, "https://mall.shopee.co.id/api/v2/item/get?itemid=".$au."&shopid=83382147");
+curl_setopt($ch, CURLOPT_URL, "https://mall.shopee.co.id/api/v2/item/get?itemid=".$au."&shopid=303699819");
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
 curl_setopt($ch, CURLOPT_ENCODING, 'gzip, deflate');
